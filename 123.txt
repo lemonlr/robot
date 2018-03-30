@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 I 12 love you too
+=======
+I love you 456 too
+
+>>>>>>> d4ba9ec606acc22c3842742b79aea9c03e95b130
